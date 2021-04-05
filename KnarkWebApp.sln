@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnarkWebApp", "KnarkWebApp\KnarkWebApp.csproj", "{EABE0E39-3A7A-4A5C-A68D-C99B44528B81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnarkWebApp.Contracts", "KnarkWebApp.Contracts\KnarkWebApp.Contracts.csproj", "{4801561A-D2C8-4F7A-966D-02824BE9F9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABE0E39-3A7A-4A5C-A68D-C99B44528B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABE0E39-3A7A-4A5C-A68D-C99B44528B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABE0E39-3A7A-4A5C-A68D-C99B44528B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABE0E39-3A7A-4A5C-A68D-C99B44528B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4801561A-D2C8-4F7A-966D-02824BE9F9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4801561A-D2C8-4F7A-966D-02824BE9F9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4801561A-D2C8-4F7A-966D-02824BE9F9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4801561A-D2C8-4F7A-966D-02824BE9F9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46AB53C8-F486-460A-BB9B-7A6BB2534887}
+	EndGlobalSection
+EndGlobal
